@@ -1,3 +1,2 @@
 # Machine Learning Projects
----
 In this Folder i uploaded various type of mchine learning projects such as Supervised Learning (Classification, Regression, NLP, Forecasting, Recommendation) and Unsupervised Learning (Clustering) Projects.
